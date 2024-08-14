@@ -1,0 +1,33 @@
+.form_conatiner {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.form_title {
+    color: teal;
+    margin-bottom: 2rem;
+}
+
+.form_formContainer {
+    border: 0.05rem solid white;
+    padding: 2rem;
+}
+
+.form_labelInput {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1rem;
+}
+
+.form_btn {
+    border-radius: 0.5rem;
+    height: 2rem;
+    width: 3rem;
+    border: none;
+    color: white;
+    background-color: teal;
+}
