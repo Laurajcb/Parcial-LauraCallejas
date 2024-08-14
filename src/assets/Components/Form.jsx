@@ -31,7 +31,7 @@ const Form = () => {
 
 	return (
 		<div className={styles.form_conatiner}>
-			<h1 className={styles.form_title}>Let's do a magic trick!</h1>
+			<h1 className={styles.form_title}>Let's some magic!</h1>
 			<form
 			className={styles.form_formContainer} 
 			onSubmit={handleSubmit}
